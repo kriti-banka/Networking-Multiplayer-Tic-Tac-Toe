@@ -9,7 +9,7 @@ A multiplayer Tic Tac Toe Game embedded With Socket.io Networking
 - Round & Game Winner
 
 <p align="center">
- 
+    <img width="300" src="TicTacToe.jpg">
 </p>
 
 ## Installation
