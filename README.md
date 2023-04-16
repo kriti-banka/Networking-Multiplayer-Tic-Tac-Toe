@@ -8,6 +8,10 @@ A multiplayer Tic Tac Toe Game embedded With Socket.io Networking
 - Display Points
 - Round & Game Winner
 
+<p align="center">
+ 
+</p>
+
 ## Installation
 After cloning this repository, migrate to ```flutter-multiplayer-tictactoe``` folder.
 
