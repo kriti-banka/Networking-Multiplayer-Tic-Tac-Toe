@@ -33,9 +33,9 @@ npm run dev
 ```
 
 ## Tech Used
-**Server**: Node.js, Express, Socket.io, Mongoose, MongoDB
+Node.js, Express, Socket.io, Mongoose, MongoDB
 
-**Client**: Flutter, Provider
+Flutter, Provider
 
 ## Networking 
 
